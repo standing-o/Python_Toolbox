@@ -3,7 +3,7 @@ My personal toolbox that contains my daily python tools for datascience and mach
 
 ## 1. Basic Structure
 1. Print
-2. Variable (Integer, string)
+2. Variable (Integer, String)
 3. Function
 4. Method
 5. Formatting
@@ -11,13 +11,13 @@ My personal toolbox that contains my daily python tools for datascience and mach
 7. Dictionary
 8. Set
 9. Collection
-10. Lambda Function
-11. Copy
+ 10. Lambda Function
+ 11. Copy
 
 ## 2. Standard Modules
-1. math
-2. statistics
-3. time
-4. calendar
-5. random
-6. sys
+1. Random
+2. Time
+3. Calendar
+4. Math
+5. Statistics
+6. Sys
