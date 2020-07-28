@@ -2,7 +2,7 @@
 My personal toolbox that contains my daily python tools for datascience and machinelearning
 
 ## 1. Basic Structure
-|no.|Print|no.|Dictionary|
+|No.|Contents|no.|Contents|
 |------|---|---|---|
 |1|Print|7|Dictionary|
 |2|Variable|8|Set|
@@ -11,15 +11,12 @@ My personal toolbox that contains my daily python tools for datascience and mach
 |5|Formatting|11|Copy|
 |6|List and Tuple|12||
 
-1. Print    2. Variable (Integer, String)    3. Function
-4. Method    5. Formatting    6. List and Tuple
-7. Dictionary    8. Set    9. Collection
-10. Lambda Function    11. Copy
-
 ## 2. Standard Modules
-1. Random
-2. Time
-3. Calendar
-4. Math
-5. Statistics
-6. Sys
+|No.|Contents|no.|Contents|
+|------|---|---|---|
+|1|Random|7||
+|2|Time|8||
+|3|Calendar|9||
+|4|Math|10||
+|5|Statistics|11||
+|6|Sys|12||
