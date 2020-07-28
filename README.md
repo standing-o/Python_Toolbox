@@ -22,4 +22,4 @@ My personal toolbox that contains my daily python tools for datascience and mach
 |6|Sys|
 
 ## Reference
-[1] 김상형,『파이썬 정복』, 한빛미디어(2018)
+[1]  김상형,『파이썬 정복』, 한빛미디어(2018)
