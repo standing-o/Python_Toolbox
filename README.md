@@ -2,7 +2,7 @@
 My personal toolbox that contains my daily python tools for datascience and machinelearning
 
 ## 1. Basic Structure
-|No.|Contents|no.|Contents|
+|No.|Contents|No.|Contents|
 |------|---|---|---|
 |1|Print|7|Dictionary|
 |2|Variable|8|Set|
@@ -12,11 +12,11 @@ My personal toolbox that contains my daily python tools for datascience and mach
 |6|List and Tuple|12||
 
 ## 2. Standard Modules
-|No.|Contents|no.|Contents|
-|------|---|---|---|
-|1|Random|7||
-|2|Time|8||
-|3|Calendar|9||
-|4|Math|10||
-|5|Statistics|11||
-|6|Sys|12||
+|No.|Contents|
+|------|---|
+|1|Random|
+|2|Time|
+|3|Calendar|
+|4|Math|
+|5|Statistics|
+|6|Sys|
