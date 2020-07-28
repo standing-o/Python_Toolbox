@@ -2,8 +2,9 @@
 My personal toolbox that contains my daily python tools for datascience and machinelearning
 
 ## 1. Basic Structure
-|1|Print|7|Dictionary|
+|no.|Print|no.|Dictionary|
 |------|---|---|---|
+|1|Print|7|Dictionary|
 |2|Variable|8|Set|
 |3|Function|9|Collection|
 |4|Method|10|Lambda Function|
