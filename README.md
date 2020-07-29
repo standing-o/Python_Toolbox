@@ -1,4 +1,4 @@
-# Python_Toolbox (20200728 ~)
+# Python Toolbox (20200728 ~)
 My personal toolbox that contains my daily python tools for datascience and machinelearning
 
 ## 1. Basic Structure
