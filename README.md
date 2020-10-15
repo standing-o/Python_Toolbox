@@ -12,14 +12,14 @@
 |6|List and Tuple|12||
 
 ## 2. Standard Modules
-|No.|Contents|
-|------|---|
-|1|Random|
-|2|Time|
-|3|Calendar|
-|4|Math|
-|5|Statistics|
-|6|Sys|
+|No.|Contents|No.|Contents|
+|------|---|------|---|
+|1|Random|4|Math|
+|2|Time|5|Statistics|
+|3|Calendar|6|Sys|
+
+
+
 
 ## Reference
 ```
