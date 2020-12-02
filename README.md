@@ -8,6 +8,11 @@
 |2|Variable|5|Formatting|8|Set|11|Copy|
 |3|Function|6|List and Tuple|9|Collection|12||
 
+|No.|Contents|No.|Contents|No.|Contents|No.|Contents|
+|------|---|---|---|---|---|---|---|
+|1|Print|2|Method|3|Dictionary|4|Lambda Function|
+|5|Variable|6|Formatting|7|Set|8|Copy|
+|9|Function|10|List and Tuple|11|Collection|12||
 ## 2. Standard Modules | [[Code]](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/2_Standard_Modules.ipynb)
 |No.|Contents|No.|Contents|
 |------|---|------|---|
