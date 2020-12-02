@@ -4,24 +4,16 @@
 ## 1. Basic Structure | [[Code]](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/1_Basic_Structure.ipynb)
 |No.|Contents|No.|Contents|No.|Contents|No.|Contents|
 |------|---|---|---|---|---|---|---|
-|1|Print|4|Method|7|Dictionary|10|Lambda Function|
-|2|Variable|5|Formatting|8|Set|11|Copy|
-|3|Function|6|List and Tuple|9|Collection|12||
+|1|Print|2|Variable|3|Function|4|Method|
+|5|Formatting|6|List and Tuple|7|Dictionary|8|Set|
+|9|Collection|10|Lambda Function|11|Copy|12||
 
-|No.|Contents|No.|Contents|No.|Contents|No.|Contents|
-|------|---|---|---|---|---|---|---|
-|1|Print|2|Method|3|Dictionary|4|Lambda Function|
-|5|Variable|6|Formatting|7|Set|8|Copy|
-|9|Function|10|List and Tuple|11|Collection|12||
 ## 2. Standard Modules | [[Code]](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/2_Standard_Modules.ipynb)
 |No.|Contents|No.|Contents|
 |------|---|------|---|
-|1|Random|4|Math|
-|2|Time|5|Statistics|
-|3|Calendar|6|Sys|
-
-
-
+|1|Random|2|Time|
+|3|Calendar|4|Math|
+|5|Statistics|6|Sys|
 
 ## Reference
 ```
