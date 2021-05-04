@@ -1,14 +1,14 @@
 # Python Toolbox (20200728 ~)
 - My personal toolbox that contains my daily python tools for datascience and machinelearning
 
-## 1. Basic Structure | [[Code]](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/1_Basic_Structure.ipynb)
+## 1. Basic Structure | [[Code]](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/Python_Basic/1_Basic_Structure.ipynb)
 |No.|Contents|No.|Contents|No.|Contents|No.|Contents|
 |------|---|---|---|---|---|---|---|
 |1|Print|2|Variable|3|Function|4|Method|
 |5|Formatting|6|List and Tuple|7|Dictionary|8|Set|
 |9|Collection|10|Lambda Function|11|Copy|12||
 
-## 2. Standard Modules | [[Code]](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/2_Standard_Modules.ipynb)
+## 2. Standard Modules | [[Code]](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/Python_Basic/2_Standard_Modules.ipynb)
 |No.|Contents|No.|Contents|
 |------|---|------|---|
 |1|Random|2|Time|
