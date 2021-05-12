@@ -23,7 +23,9 @@ ROOT
 
 
 ### algorithms/__init__.py | [[Code]]()
-- When a package is referenced from outside, the "__init__.py" in the package is executed.
+- When a package is referenced from outside, the ```__init__.py``` in the package is executed.
+- Each directory in the package must have ```__init__.py```. 
+- ```__init__.py``` may be empty or may provide information about the modules contained in the package.
 
 ### setup.py | [[Code]]()
 - Determine the top-level directory of the project with ```setup.py```
