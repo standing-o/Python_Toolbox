@@ -16,9 +16,11 @@
 |3|Calendar|4|Math|
 |5|Statistics|6|Sys|
 
-## 3. Module and Packages | [[Study]]() | [[Code]]()
+## Module and Packages | [[Study]]() | [[Code]]()
 
-## Pytorch Deeplearning
+
+
+## Pytorch Deeplearning | [[Code]](https://github.com/OH-Seoyoung/Python_Toolbox/tree/master/Deeplearning_with_Pytorch)
 - Differentiation, Probability, Neural Networks
 
 
