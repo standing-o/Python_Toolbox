@@ -28,10 +28,10 @@ ROOT
 - Determine the top-level directory of the project with ```setup.py```
 - Contains information necessary for testing, building, and deployment of the project.
 -> [Using the ```setuptools``` package](https://packaging.python.org/tutorials/packaging-projects/#setup-args).
-- Install required packages in execution environment of the project
+- Install required packages in execution environment of the project  
 ``` $ python setup.py install```
-- Build and Test the project ("Build" : Packaging steps for publishing the repository, not Compiling)
-``` $ python setup.py build```
+- Build and Test the project ("Build" : Packaging steps for publishing the repository, not Compiling)  
+``` $ python setup.py build```  
 ``` $ python setup.py test```
 
 
