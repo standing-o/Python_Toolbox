@@ -16,8 +16,8 @@
 |3|Calendar|4|Math|
 |5|Statistics|6|Sys|
 
-## Module and Packages | [Study](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/Module_and_Package/README.md) | [Code]()
-
+## Module and Packages | [Study](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/Module_and_Package/README.md) | [Code](https://github.com/OH-Seoyoung/Python_Toolbox/tree/master/Module_and_Package)
+- Structure of python project, Pip
 
 
 ## Pytorch Deeplearning | [[Code]](https://github.com/OH-Seoyoung/Python_Toolbox/tree/master/Deeplearning_with_Pytorch)
