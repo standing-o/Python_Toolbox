@@ -14,7 +14,7 @@ ROOT
    ├── __init__.py
    └── test_array.py
 ```
-- If "__init__.py" file exists in the directory, it is considered a package.
+- If ```__init__.py``` exists in the directory, it is considered a package.
 - It uses a module called ```array```, which is being tested from a package called ```algorithms```.
 
 ### test_array.py | [[Code]]()
