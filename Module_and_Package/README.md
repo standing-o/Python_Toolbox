@@ -2,10 +2,11 @@
 - Resuable tools in python
 - It is in a single file with ".py" file extension, and several modules are managed in a "Package"
 - 
-## Basic structure of python project
+## 1. Basic structure of python project
 ```
 ROOT
 ├── setup.py
+├── requirements.txt
 └── algorithms
    ├── __init__.py
    ├── array.py
@@ -34,4 +35,33 @@ ROOT
 ``` $ python setup.py build```  
 ``` $ python setup.py test```
 
+## 2. Pip
+- Downloading packages from PyPI and integrating them into the project.  
+1. Pip version check  
+``` $ pip --version ```  
+2. Update  
+``` $ pip install -U pip``` # On Linux or OS X  
+``` $ python -m pip install -U pip```  # On Windows  
+3. Install the package registered in PyPI, Python Package Index  
+``` $ pip install requests```  
+``` $ pip install requests==2.18.0```  
+4. Install the package using Requirements Files  
+``` $ pip install -r requirements.txt```  
+- Summary  
+```
+$ python
+$ python hello_world.py
+$ python -m unittest
+$ python -m unittest tests/test_array.py
+$ python setup.py install
+$ python setup.py test
+$ pip install [package_name]
+$ pip install -U [package_name]
+$ pip install -U requirements.txt
+$ pip install -U -r requirements.txt
+```
 
+## References
+```
+[1] 파이썬 프로젝트의 구조, https://www.holaxprogramming.com/2017/06/28/python-project-structures/
+```
