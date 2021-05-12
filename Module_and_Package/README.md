@@ -1,7 +1,7 @@
 # Module and Package
 - Resuable tools in python
 - It is in a single file with ".py" file extension, and several modules are managed in a "Package"
-- 
+
 ## 1. Basic structure of python project
 ```
 ROOT
