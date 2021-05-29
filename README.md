@@ -22,7 +22,7 @@
 
 ## Pytorch Deeplearning | [[Code]](https://github.com/OH-Seoyoung/Python_Toolbox/tree/master/Deeplearning_with_Pytorch)
 - Differentiation, Probability, Neural Networks
-
+- Layers and Blocks, Parameter Management, Custom layers, File I/O, GPU
 
 ## Reference
 ```
