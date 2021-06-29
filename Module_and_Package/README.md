@@ -17,17 +17,17 @@ ROOT
 - If ```__init__.py``` exists in the directory, it is considered a package.
 - It uses a module called ```array```, which is being tested from a package called ```algorithms```.
 
-### test_array.py | [[Code]]()
+### test_array.py
 - ```from [package_name] import [module_name]```  
 -> Use modules from packages
 
 
-### algorithms/__init__.py | [[Code]]()
+### algorithms/__init__.py
 - When a package is referenced from outside, the ```__init__.py``` in the package is executed.
 - Each directory in the package must have ```__init__.py```. 
 - ```__init__.py``` may be empty or may provide information about the modules contained in the package.
 
-### setup.py | [[Code]]()
+### setup.py
 - Determine the top-level directory of the project with ```setup.py```
 - Contains information necessary for testing, building, and deployment of the project.
 -> [Using the ```setuptools``` package](https://packaging.python.org/tutorials/packaging-projects/#setup-args).
