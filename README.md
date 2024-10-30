@@ -7,22 +7,6 @@
 &nbsp;
 &nbsp;
 
-
-## Module and Packages | [Code](https://github.com/OH-Seoyoung/Python_Toolbox/tree/master/Module_and_Package)
-- Structure of python project, Pip
-
-&nbsp;
-&nbsp;
-&nbsp;
-
-## Pytorch Deeplearning | [Code](https://github.com/OH-Seoyoung/Python_Toolbox/tree/master/Deeplearning_with_Pytorch)
-- Differentiation, Probability, Neural Networks
-- Layers and Blocks, Parameter Management, Custom layers, File I/O, GPU
-
-&nbsp;
-&nbsp;
-&nbsp;
-
 ## Python Basic
 ### 1. Basic Structure | [Code](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/Python_Basic/basic_structure.ipynb)
 |No.|Contents|No.|Contents|No.|Contents|No.|Contents|
@@ -42,8 +26,37 @@
 &nbsp;
 &nbsp;
 
+
+## Python Advanced
+### Scope | [Code](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/Python_Advanced/scope.ipynb)
+
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+## Module and Packages | [Code](https://github.com/OH-Seoyoung/Python_Toolbox/tree/master/Module_and_Package)
+- Structure of python project, Pip
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+## Pytorch Basic | [Code](https://github.com/OH-Seoyoung/Python_Toolbox/tree/master/Deeplearning_with_Pytorch)
+
+- Differentiation, Probability, Neural Networks
+- Layers and Blocks, Parameter Management, Custom layers, File I/O, GPU
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 ## Reference
 ```
 [1] 김상형,『파이썬 정복』, 한빛미디어(2018)
 [2] Dive into Deep Learning, http://d2l.ai/
+[3] 모두를 위한 파이썬: 필수 문법 배우기 Feat. 오픈소스 패키지 배포, http://inf.run/fdBMs
 ```
