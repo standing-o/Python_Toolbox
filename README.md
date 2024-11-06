@@ -53,15 +53,21 @@
 |------|-------------------|------|--------------------|------|----------|
 |1| Method Overriding |2| Method Overloading |3| `multipledispatch`    |
 
+
+### Metaclass | [Code](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/Python_Advanced/meta_class.ipynb)
+
+### Descriptor | [Code](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/Python_Advanced/descriptor.ipynb)
+
 &nbsp;
 &nbsp;
 &nbsp;
-
-
-
 
 ## Module and Packages | [Code](https://github.com/OH-Seoyoung/Python_Toolbox/tree/master/Module_and_Package)
 - Structure of python project, Pip
+- **Baseline of Python library**
+  - `__init__.py`
+  - Root | `README.md`, `setup.py`, `setup.cfg(optional)`, `LICENSE`, `MANIFEST.in`
+  - `pip install setuptools wheel` and Build up
 
 &nbsp;
 &nbsp;
