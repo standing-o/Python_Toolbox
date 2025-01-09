@@ -15,7 +15,7 @@
 |5|Formatting|6|List and Tuple|7|Dictionary| 8   | Set      |
 |9|Collection|10|Lambda Function|11|Copy| -   | -        |
 
-### 2.Standard Modules | [Code](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/Python_Basic/standard_modules.ipynb)
+### 2. Standard Modules | [Code](https://github.com/OH-Seoyoung/Python_Toolbox/blob/master/Python_Basic/standard_modules.ipynb)
 |No.|Contents|No.|Contents|No.|Contents|
 |------|---|------|---|------|---|
 |1|Random|2|Time|3|Calendar|
